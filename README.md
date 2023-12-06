@@ -1,3 +1,9 @@
+### Screenshot
+
+<img src="https://andrian.vercel.app/img/react-movie-web.png" alt="">
+&nbsp;
+<img src="https://andrian.vercel.app/img/react-movie-1.png" alt="">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,9 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Screenshot
-
-<img src="https://andrian.vercel.app/img/react-movie-web.png" alt="">
-&nbsp;
-<img src="https://andrian.vercel.app/img/react-movie-1.png" alt="">
 
